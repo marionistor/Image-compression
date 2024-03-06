@@ -3,7 +3,7 @@
 
 A program that compress and decompresses images in ppm format using quadtree data structures.
 
-#Implementation
+# Implementation
 
 The file queue.h contains the structure and functions used for implementing queues, while the file quadtree.h contains the structure of a pixel and a quadtree, along with the functions used for initializing and freeing its memory. In the main.c file, one can find the functions corresponding to the requirements of the assignment.
 
