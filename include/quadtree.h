@@ -1,5 +1,3 @@
-/* Nistor Ioan-Mario-311CC */
-
 #ifndef QUADTREE_H_
 #define QUADTREE_H_
 
